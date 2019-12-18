@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="junit-4.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../backups/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../backups/lombok-1.16.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../backups/commons-io-2.6/commons-io-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
