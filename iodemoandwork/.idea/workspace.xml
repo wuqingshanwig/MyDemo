@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58b6cc73-0094-4558-a719-3545c7caed20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/MyMarket/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/demo/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/javahigh191211/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/javahigh191212/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMarket/Mymarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMarket/src/com/wqs/www/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMarket/src/com/wqs/www/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMarket/src/com/wqs/www/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrderFram/OrderFram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../begod/begod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-work/demo-work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/show/Produce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/show/ProduceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/show/ProduceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/junit4/META-INF/junit4.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/junit4/practices/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/junit4/practices/Serializable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/junit4/practices/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Serializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practices/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapractise/jgs1904-demo191116.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/libraries/commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work1121/Work/Work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work1121/work1121.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMarket/src/com/maket/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMarket/src/com/maket/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMarket/src/com/maket/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMarket/src/com/maket/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/desigemode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/desigemode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/FactoryA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/ProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/ProductAa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/ProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/ProductBb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/FactoryWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/FactoryWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/ProductA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductAa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/ProductAa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/ProductB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductBb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/ProductBb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/abstractsfactory/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\java\projects\Workspace\iodemoandwork\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6PtSkHWTPgNfSeWzW061pNKjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../backups/hamcrest-core-1.3.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="JUnit.Demo.test5">
+    <configuration name="Demo (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practices" />
+      <option name="MAIN_CLASS_NAME" value="practices.Demo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practices" />
+      <option name="MAIN_CLASS_NAME" value="practices.Demo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practices" />
+      <option name="MAIN_CLASS_NAME" value="practices.Demo" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practices" />
+      <option name="MAIN_CLASS_NAME" value="practices.Demo" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practices" />
+      <option name="MAIN_CLASS_NAME" value="practices.Demo" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo.test5" />
+        <item itemvalue="JUnit.Demo.test4" />
+        <item itemvalue="JUnit.Demo.test3" />
+        <item itemvalue="JUnit.Demo.test2" />
+        <item itemvalue="JUnit.Demo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b6cc73-0094-4558-a719-3545c7caed20" name="Default Changelist" comment="" />
+      <created>1576570785350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576570785350</updated>
+      <workItem from="1576570786606" duration="1795000" />
+      <workItem from="1576658237028" duration="3801000" />
+    </task>
+    <task id="LOCAL-00001" summary="序列化和反序列化">
+      <created>1576661289311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576661289311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="序列化和反序列化" />
+    <option name="LAST_COMMIT_MESSAGE" value="序列化和反序列化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Notifications" timestamp="1576663214099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1576663214099" />
+    <state x="1152" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1576659682527">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1152" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1576659682527" />
+    <state x="1025" y="352" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1576571518214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1025" y="352" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576571518214" />
+    <state x="374" y="130" key="CommitChangelistDialog2" timestamp="1576661287496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="374" y="130" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1576661287496" />
+    <state x="634" y="280" key="FileChooserDialogImpl" timestamp="1576571550590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="634" y="280" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576571550590" />
+    <state x="777" y="413" width="390" height="254" key="Github.ShareDialog" timestamp="1576663313699">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="413" width="390" height="254" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576663313699" />
+    <state width="1189" height="295" key="GridCell.Tab.0.bottom" timestamp="1576661076911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1189" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576661076911" />
+    <state width="1189" height="295" key="GridCell.Tab.0.center" timestamp="1576661076911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1189" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576661076911" />
+    <state width="1189" height="295" key="GridCell.Tab.0.left" timestamp="1576661076911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1189" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576661076911" />
+    <state width="1189" height="295" key="GridCell.Tab.0.right" timestamp="1576661076911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1189" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576661076911" />
+    <state x="675" y="216" key="SettingsEditor" timestamp="1576660542114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="675" y="216" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576660542114" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1576663202174">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1576663202174" />
+  </component>
+</project>
