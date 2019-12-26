@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39980f65-0cd1-4faf-89f9-9cc6770726fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1VVsx67eFzVtOx8sl9a1WXclsGO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.Test" />
+      <module name="myhomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39980f65-0cd1-4faf-89f9-9cc6770726fa" name="Default Changelist" comment="" />
+      <created>1577349839031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577349839031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="292" key="FileChooserDialogImpl" timestamp="1577349914384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="699" y="292" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577349914384" />
+    <state x="777" y="441" key="Github.ShareDialog" timestamp="1577349992640">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="441" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577349992640" />
+    <state x="749" y="342" key="svn.repositoryBrowser" timestamp="1577349897943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="749" y="342" key="svn.repositoryBrowser/0.0.1920.1080@0.0.1920.1080" timestamp="1577349897943" />
+  </component>
+</project>
