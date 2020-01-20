@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f6915f5-2a07-400d-8892-499f40abb827" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Javaoop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/Javaoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/src/entity/BlackAndWhitePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/src/entity/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/src/entity/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/src/entity/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/src/entity/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/src/iml/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaoop/src/main/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsoupXpath/JsoupXpath.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsoupXpath/src/test/java/org/wig/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsoupXpath/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMarket/Mymarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/MyTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/Questions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/src/main/java/org/wig/entity/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/src/main/java/org/wig/parse/ParseXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/src/main/java/org/wig/parse/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/src/test/java/org/wig/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/target/classes/org/wig/entity/Question$QuestionBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/target/classes/org/wig/entity/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/target/classes/org/wig/parse/ParseXML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTest/target/test-classes/org/wig/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrderFram/OrderFram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/climbMountain/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/climbMountain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/climbMountain/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/practise/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/practise/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/practise/sellTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/practise2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/practise2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/sequenceThread/MyThreadHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/sequenceThread/MyThreadSubmit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../begod/begod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../begod/src/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../begod/src/Test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/connect_mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/dbconfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/src/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/src/www/wig/com/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/src/www/wig/com/ConnectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/src/www/wig/com/Dml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/src/www/wig/com/Dql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_mysql/src/www/wqs/com/PreparedStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/.idea/libraries/commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/dbcp-pool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbcp-pool/src/com/wig/demo/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-work/demo-work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/builder/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/builder/RealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/builder/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/single/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/single/Single1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/single/Single1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/single/Single2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/single/Single4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/single/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/singleshow/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/singleshow/Single1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/singleshow/Single2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/singleshow/Singled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desigemode/src/singleshow/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahigh191226/javahigh191226.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapractise/jgs1904-demo191116.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/javaweb_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/javaweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/src/com/wig/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/web/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/libraries/jsoup_1_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/jdbc-jsoup-51job.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/out/production/jdbc-jsoup-51job/com/wig/demo/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/out/production/jdbc-jsoup-51job/com/wig/utils/DataSourceUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/out/production/jdbc-jsoup-51job/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/com/wig/controller/JobController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/com/wig/dao/JobDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/com/wig/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/com/wig/entity/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/com/wig/service/JobService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/com/wig/utils/DataSourceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/jdbc-transfer-account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/dao/TestConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/demo/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/utils/DataSourceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/com/wig/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-transfer-account/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsoupXML/jsoupXML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsoupXML/src/parsexml/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/Work1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/demolambda/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/demolambda/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/demolambda/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/interfaces/ChooseStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/components/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/Error404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/services/AppModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/services/DevelopmentModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/services/QaModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/components/Layout.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/About.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Error404.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Index.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Login.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/tapestry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/IndexSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/tapestry/functional/LoginSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/tapestry/unit/pages/LoginSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/tapestry/unit/pages/NavigationSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/PLACEHOLDER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-parent/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-parent/maven-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-parent/src/main/java/com/wig/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-parent/src/main/java/com/wig/ParseHTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-parent/src/main/java/com/wig/ParseXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-parent/src/test/java/com/wig/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/maven-redis-jdbc-51.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/components/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/controller/JobController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/dao/JobDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/demo/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/demo/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/entity/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/pages/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/pages/Error404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/pages/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/pages/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/service/JobService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/services/AppModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/services/DevelopmentModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/services/QaModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/utils/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/java/com/wig/utils/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/com/wig/components/Layout.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/com/wig/pages/About.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/com/wig/pages/Error404.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/com/wig/pages/Index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/com/wig/pages/Index.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/com/wig/pages/Login.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/log4j2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/WEB-INF/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/images/tapestry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/main/webapp/mybootstrap/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/test/groovy/com/wig/IndexSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/test/groovy/com/wig/tapestry/functional/LoginSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/test/groovy/com/wig/tapestry/unit/pages/LoginSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/test/groovy/com/wig/tapestry/unit/pages/NavigationSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-redis-jdbc-51/src/test/resources/PLACEHOLDER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymaven/.idea/mymaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymaven/mymaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/libraries/lombok_1_16_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/libraries/mysql_connector_java_5_1_47_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/mysql_java_tra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/out/production/mysql_java_tra/connect_mysql/ConnectMysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/out/production/mysql_java_tra/connect_mysql/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/out/production/mysql_java_tra/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/demo/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/entity/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/entity/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/entity_iml/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/interfaces/MyJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/utils/ConnectMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql_java_tra/src/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/XmlTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/XmlTest2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/bookstore.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/myxml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/src/domWith/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/src/domWith/DOMParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/src/doxxml/DoXmlWithDOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/src/doxxml/DoxXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/src/doxxml/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myxml/src/doxxml/XmlParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/parseHTMLJob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/src/main/java/com/wig/ComJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/src/main/java/com/wig/JsoupBiBi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/src/main/java/com/wig/ParseHTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/target/classes/com/wig/ComJob$ComJobBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/target/classes/com/wig/ComJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/target/classes/com/wig/ParseHTML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseHTMLJob/target/test-classes/com/wig/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/parseqidian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/src/main/java/com/wig/Parse51Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/src/main/java/org/wig/ParseBiLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/src/main/java/org/wig/QiDian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/target/classes/org/wig/QiDian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parseqidian/target/test-classes/org/wig/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-jdbc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/register_login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/src/com/wig/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/src/com/wig/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/src/com/wig/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/src/com/wig/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register_login/src/com/wig/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/socket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/tcp/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/tcp/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/udp/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket/src/udp/UdpClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tcpudp/src/serverclient/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tcpudp/src/serverclient/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tcpudp/src/serverclient/SocketThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tcpudp/tcpudp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../topic-jsoup/ffmpeg.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../topic-jsoup/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work1121/Work/Work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work1121/work1121.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMarket/src/com/maket/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMarket/src/com/maket/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyMarket/src/com/maket/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyMarket/src/com/maket/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Thread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/desigemode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/desigemode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/FactoryA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/abstractsfactory/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/builderpattern/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/builderpattern/Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/builderpattern/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/builderpattern/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton5$SingletonHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton5$SingletonHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/out/production/desigemode/singletonpattern/Singleton5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/FactoryWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductAa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/ProductBb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/abstractsfactory/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/builderpattern/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/builderpattern/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/builderpattern/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iodemoandwork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iodemoandwork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myhomework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myhomework/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\java\projects\Workspace\manager_sys\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WeWQdf94YYhdWRg5FqP9WEQBKq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.wig.demo.Demo" />
+      <module name="manager_sys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wig.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manager_sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.wig.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f6915f5-2a07-400d-8892-499f40abb827" name="Default Changelist" comment="" />
+      <created>1579510526323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579510526323</updated>
+      <workItem from="1579510529950" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1579510812747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1579510812747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1579510812747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1579510812747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
+  </component>
+</project>
