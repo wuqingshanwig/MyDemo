@@ -106,7 +106,6 @@
       <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/jdbc-jsoup-51job.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/out/production/jdbc-jsoup-51job/com/wig/demo/demo.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/out/production/jdbc-jsoup-51job/com/wig/utils/DataSourceUtil.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/out/production/jdbc-jsoup-51job/druid.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc-jsoup-51job/src/com/wig/controller/JobController.java" afterDir="false" />
@@ -143,58 +142,16 @@
       <change afterPath="$PROJECT_DIR$/../lambda/src/demolambda/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lambda/src/entity/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lambda/src/interfaces/ChooseStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/components/Layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/demo/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/Error404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/pages/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/services/AppModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/services/DevelopmentModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/services/QaModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/components/Layout.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/About.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Error404.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Index.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Index.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/wig/pages/Login.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/app.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/tapestry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/affix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mybootstrap/js/transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/IndexSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/tapestry/functional/LoginSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/tapestry/unit/pages/LoginSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/wig/tapestry/unit/pages/NavigationSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/PLACEHOLDER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/.idea/libraries/commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/log4j-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/src/com/wig/demo/Log4jDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log4j-demo/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/utils/CodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wig/utils/EmailUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../maven-parent/books.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../maven-parent/maven-parent.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../maven-parent/src/main/java/com/wig/App.java" afterDir="false" />
@@ -356,6 +313,24 @@
       <change afterPath="$PROJECT_DIR$/../tcpudp/src/serverclient/Server.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tcpudp/src/serverclient/SocketThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tcpudp/tcpudp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-1/src/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-1/teach-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-2/src/com/wig/Interfaces/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-2/src/com/wig/demo/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-2/src/com/wig/demo/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-2/teach-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/src/com/wig/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/src/com/wig/demo/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/src/com/wig/demo/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/src/com/wig/demo/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/src/com/wig/demo/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teach-3/teach-3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../topic-jsoup/ffmpeg.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../topic-jsoup/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work1121/Work/Work.iml" afterDir="false" />
@@ -389,6 +364,10 @@
       <change beforePath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desigemode/src/singletonpattern/Singleton5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../iodemoandwork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iodemoandwork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/wig/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wig/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/wig/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/wig/demo/Demo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myhomework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myhomework/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -435,6 +414,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="show.unlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -485,8 +471,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579510526323</updated>
-      <workItem from="1579510529950" duration="276000" />
+      <workItem from="1579510529950" duration="5835000" />
+      <workItem from="1579766783619" duration="4525000" />
+      <workItem from="1579779099092" duration="4382000" />
     </task>
+    <task id="LOCAL-00001" summary="管理系统">
+      <created>1579510926970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579510926970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="管理系统">
+      <created>1579512252682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579512252682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,23 +497,61 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="管理系统" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1579510812747">
+    <state x="553" y="127" key="CommitChangelistDialog2" timestamp="1579512252695">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1579510812747">
+    <state x="553" y="127" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1579512252695" />
+    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1579511981542">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1579510812747">
+    <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1579511981542" />
+    <state x="781" y="453" width="382" height="173" key="Github.CreateGistDialog" timestamp="1579857408185">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1579510812747">
+    <state x="781" y="453" width="382" height="173" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579857408185" />
+    <state width="1877" height="783" key="GridCell.Tab.0.bottom" timestamp="1579790482753">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579510812747" />
+    <state width="1877" height="783" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579790482753" />
+    <state width="1877" height="783" key="GridCell.Tab.0.center" timestamp="1579790482753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="783" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579790482753" />
+    <state width="1877" height="783" key="GridCell.Tab.0.left" timestamp="1579790482752">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="783" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579790482752" />
+    <state width="1877" height="783" key="GridCell.Tab.0.right" timestamp="1579790482753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="783" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579790482753" />
+    <state x="720" y="251" key="RollbackChangesDialog" timestamp="1579512335011">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="251" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579512335011" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1579857330151">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1579857330151" />
+    <state x="684" y="274" key="VcsDiffUtil.ChangesDialog" timestamp="1579512320231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="684" y="274" key="VcsDiffUtil.ChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579512320231" />
+    <state x="751" y="405" key="git4idea.rebase.GitRebaseDialog" timestamp="1579514520406">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="751" y="405" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579514520406" />
+    <state x="785" y="440" key="git4idea.ui.GitStashDialog" timestamp="1579514538677">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="785" y="440" key="git4idea.ui.GitStashDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579514538677" />
+    <state x="790" y="331" key="svn.repositoryBrowser" timestamp="1579511923541">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="790" y="331" key="svn.repositoryBrowser/0.0.1920.1080@0.0.1920.1080" timestamp="1579511923540" />
   </component>
 </project>

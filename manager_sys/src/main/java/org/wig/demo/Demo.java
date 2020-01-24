@@ -1,5 +1,8 @@
 package org.wig.demo;
 
+import org.wig.utils.CodeUtil;
+import org.wig.utils.EmailUtil;
+
 /**
  * Author Name: wig
  * Class Name: Demo
@@ -9,6 +12,9 @@ package org.wig.demo;
  */
 public class Demo {
     public static void main(String[] args) {
-        System.out.println(123);
+        for (int i = 0; i < 10; i++) {
+            String s = CodeUtil.generateVerifyCode(10);
+            EmailUtil.sendEmail("1921890771@qq.com",s);
+        }
     }
 }
